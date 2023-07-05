@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>luoluo</title>
+  
+  <subtitle>樱日狂想</subtitle>
+  <link href="https://gothic-lolita.moe/atom.xml" rel="self"/>
+  
+  <link href="https://gothic-lolita.moe/"/>
+  <updated>2023-07-05T11:59:20.677Z</updated>
+  <id>https://gothic-lolita.moe/</id>
+  
+  <author>
+    <name>luoshieryi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Brew 安装 anaconda</title>
+    <link href="https://gothic-lolita.moe/2023/07/05/brew-an-zhuang-anaconda-bing-jian-dan-pei-zhi/"/>
+    <id>https://gothic-lolita.moe/2023/07/05/brew-an-zhuang-anaconda-bing-jian-dan-pei-zhi/</id>
+    <published>2023-07-04T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Brew-安装-anaconda&quot;&gt;&lt;a href=&quot;#Brew-安装-anaconda&quot; class=&quot;headerlink&quot; title=&quot;Brew 安装 anaconda&quot;&gt;&lt;/a&gt;Brew 安装 anaconda&lt;/h1&gt;&lt;pre</summary>
+        
+      
+    
+    
+    
+    
+    <category term="mac" scheme="https://gothic-lolita.moe/tags/mac/"/>
+    
+    <category term="zsh" scheme="https://gothic-lolita.moe/tags/zsh/"/>
+    
+    <category term="homebrew" scheme="https://gothic-lolita.moe/tags/homebrew/"/>
+    
+    <category term="python" scheme="https://gothic-lolita.moe/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker-compose 部署 SpringCloud services + nacos +mysql8</title>
+    <link href="https://gothic-lolita.moe/2022/06/20/docker-compose-bu-shu-springcloud-services-nacos-mysql8/"/>
+    <id>https://gothic-lolita.moe/2022/06/20/docker-compose-bu-shu-springcloud-services-nacos-mysql8/</id>
+    <published>2022-06-19T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;docker-compose-一键部署-SpringCloud-services-nacos-mysql8-的疑难杂症&quot;&gt;&lt;a href=&quot;#docker-compose-一键部署-SpringCloud-services-nacos-mysql8-的疑难杂症&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="spring" scheme="https://gothic-lolita.moe/tags/spring/"/>
+    
+    <category term="docker" scheme="https://gothic-lolita.moe/tags/docker/"/>
+    
+    <category term="springcloud" scheme="https://gothic-lolita.moe/tags/springcloud/"/>
+    
+    <category term="nacos" scheme="https://gothic-lolita.moe/tags/nacos/"/>
+    
+    <category term="mysql8" scheme="https://gothic-lolita.moe/tags/mysql8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>flask 跨域资源共享</title>
+    <link href="https://gothic-lolita.moe/2022/04/20/flask-kua-yu-zi-yuan-yun-xu/"/>
+    <id>https://gothic-lolita.moe/2022/04/20/flask-kua-yu-zi-yuan-yun-xu/</id>
+    <published>2022-04-19T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;flask-跨域资源共享&quot;&gt;&lt;a href=&quot;#flask-跨域资源共享&quot; class=&quot;headerlink&quot; title=&quot;flask 跨域资源共享&quot;&gt;&lt;/a&gt;flask 跨域资源共享&lt;/h1&gt;&lt;p&gt;最近完成 python 实验尝试使用了 flask</summary>
+        
+      
+    
+    
+    
+    
+    <category term="python" scheme="https://gothic-lolita.moe/tags/python/"/>
+    
+    <category term="flask" scheme="https://gothic-lolita.moe/tags/flask/"/>
+    
+    <category term="http" scheme="https://gothic-lolita.moe/tags/http/"/>
+    
+    <category term="cors" scheme="https://gothic-lolita.moe/tags/cors/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot 3.0 预览</title>
+    <link href="https://gothic-lolita.moe/2022/03/02/springboot-3.0-yu-lan/"/>
+    <id>https://gothic-lolita.moe/2022/03/02/springboot-3.0-yu-lan/</id>
+    <published>2022-03-01T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Spring-Boot-3-0-预览&quot;&gt;&lt;a href=&quot;#Spring-Boot-3-0-预览&quot; class=&quot;headerlink&quot; title=&quot;Spring Boot 3.0 预览&quot;&gt;&lt;/a&gt;Spring Boot 3.0 预览&lt;/h1&gt;&lt;p&gt;1 月</summary>
+        
+      
+    
+    
+    
+    
+    <category term="java" scheme="https://gothic-lolita.moe/tags/java/"/>
+    
+    <category term="springboot" scheme="https://gothic-lolita.moe/tags/springboot/"/>
+    
+    <category term="spring" scheme="https://gothic-lolita.moe/tags/spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux下使用Nginx配置正向代理</title>
+    <link href="https://gothic-lolita.moe/2022/02/27/centos8-pei-zhi-nginx-zheng-xiang-dai-li/"/>
+    <id>https://gothic-lolita.moe/2022/02/27/centos8-pei-zhi-nginx-zheng-xiang-dai-li/</id>
+    <published>2022-02-26T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Linux下使用Nginx配置正向代理&quot;&gt;&lt;a href=&quot;#Linux下使用Nginx配置正向代理&quot; class=&quot;headerlink&quot; title=&quot;Linux下使用Nginx配置正向代理&quot;&gt;&lt;/a&gt;Linux下使用Nginx配置正向代理&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="linux" scheme="https://gothic-lolita.moe/tags/linux/"/>
+    
+    <category term="nginx" scheme="https://gothic-lolita.moe/tags/nginx/"/>
+    
+    <category term="centos" scheme="https://gothic-lolita.moe/tags/centos/"/>
+    
+    <category term="proxy" scheme="https://gothic-lolita.moe/tags/proxy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写一个Java注解与 AOP</title>
+    <link href="https://gothic-lolita.moe/2021/10/31/xie-yi-ge-java-zhu-jie-yu-aop/"/>
+    <id>https://gothic-lolita.moe/2021/10/31/xie-yi-ge-java-zhu-jie-yu-aop/</id>
+    <published>2021-10-30T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;写一个-Java-注解与-AOP&quot;&gt;&lt;a href=&quot;#写一个-Java-注解与-AOP&quot; class=&quot;headerlink&quot; title=&quot;写一个 Java 注解与 AOP&quot;&gt;&lt;/a&gt;写一个 Java 注解与 AOP&lt;/h1&gt;&lt;h2 id=&quot;元注解&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="java" scheme="https://gothic-lolita.moe/tags/java/"/>
+    
+    <category term="springboot" scheme="https://gothic-lolita.moe/tags/springboot/"/>
+    
+    <category term="spring" scheme="https://gothic-lolita.moe/tags/spring/"/>
+    
+    <category term="reflect" scheme="https://gothic-lolita.moe/tags/reflect/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL 中使用 boolean logic 代替 CASE</title>
+    <link href="https://gothic-lolita.moe/2021/10/30/sql-zhong-shi-yong-boolean-logic-dai-ti-case/"/>
+    <id>https://gothic-lolita.moe/2021/10/30/sql-zhong-shi-yong-boolean-logic-dai-ti-case/</id>
+    <published>2021-10-29T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;SQL-WHERE-clauses-Avoid-CASE-use-Boolean-logic&quot;&gt;&lt;a href=&quot;#SQL-WHERE-clauses-Avoid-CASE-use-Boolean-logic&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="sql" scheme="https://gothic-lolita.moe/tags/sql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 异常处理</title>
+    <link href="https://gothic-lolita.moe/2021/10/18/java-yi-chang-chu-li/"/>
+    <id>https://gothic-lolita.moe/2021/10/18/java-yi-chang-chu-li/</id>
+    <published>2021-10-17T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;异常处理&quot;&gt;&lt;a href=&quot;#异常处理&quot; class=&quot;headerlink&quot; title=&quot;异常处理&quot;&gt;&lt;/a&gt;异常处理&lt;/h1&gt;&lt;h2 id=&quot;try-catch-finally-的调用顺序&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="java" scheme="https://gothic-lolita.moe/tags/java/"/>
+    
+    <category term="error" scheme="https://gothic-lolita.moe/tags/error/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 多线程</title>
+    <link href="https://gothic-lolita.moe/2021/10/13/java-duo-xian-cheng/"/>
+    <id>https://gothic-lolita.moe/2021/10/13/java-duo-xian-cheng/</id>
+    <published>2021-10-12T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;多线程&quot;&gt;&lt;a href=&quot;#多线程&quot; class=&quot;headerlink&quot; title=&quot;多线程&quot;&gt;&lt;/a&gt;多线程&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="java" scheme="https://gothic-lolita.moe/tags/java/"/>
+    
+    <category term="thread" scheme="https://gothic-lolita.moe/tags/thread/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java访问权限修饰符</title>
+    <link href="https://gothic-lolita.moe/2021/09/21/java-lei-cheng-yuan-de-si-chong-fang-wen-quan-xian/"/>
+    <id>https://gothic-lolita.moe/2021/09/21/java-lei-cheng-yuan-de-si-chong-fang-wen-quan-xian/</id>
+    <published>2021-09-20T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;访问权限修饰符&quot;&gt;&lt;a href=&quot;#访问权限修饰符&quot; class=&quot;headerlink&quot; title=&quot;访问权限修饰符&quot;&gt;&lt;/a&gt;访问权限修饰符&lt;/h1&gt;&lt;p&gt;Java 为 类、属性字段、方法 提供了四种访问权限 : default, public,</summary>
+        
+      
+    
+    
+    
+    
+    <category term="java" scheme="https://gothic-lolita.moe/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL基础</title>
+    <link href="https://gothic-lolita.moe/2021/09/10/mysql-bi-ji/"/>
+    <id>https://gothic-lolita.moe/2021/09/10/mysql-bi-ji/</id>
+    <published>2021-09-09T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;初识09-06&quot;&gt;&lt;a href=&quot;#初识09-06&quot; class=&quot;headerlink&quot; title=&quot;初识09.06&quot;&gt;&lt;/a&gt;初识&lt;del&gt;09.06&lt;/del&gt;&lt;/h1&gt;&lt;h2 id=&quot;数据库术语&quot;&gt;&lt;a href=&quot;#数据库术语&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="mysql" scheme="https://gothic-lolita.moe/tags/mysql/"/>
+    
+    <category term="sql" scheme="https://gothic-lolita.moe/tags/sql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>修图&amp;嵌字功能笔记</title>
+    <link href="https://gothic-lolita.moe/2021/09/04/xiu-tu-qian-zi-bi-ji/"/>
+    <id>https://gothic-lolita.moe/2021/09/04/xiu-tu-qian-zi-bi-ji/</id>
+    <published>2021-09-03T16:00:00.000Z</published>
+    <updated>2023-07-05T11:59:20.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;基础设置&quot;&gt;&lt;a href=&quot;#基础设置&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ps" scheme="https://gothic-lolita.moe/tags/ps/"/>
+    
+    <category term="memo" scheme="https://gothic-lolita.moe/tags/memo/"/>
+    
+  </entry>
+  
+</feed>
